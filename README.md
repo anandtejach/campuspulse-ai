@@ -1,11 +1,8 @@
-# CampusPulse AI
+<img width="1919" height="901" alt="image" src="https://github.com/user-attachments/assets/a27261bd-527b-4cda-94d9-cd0e2533a9eb" /># CampusPulse AI
 
 *Report it. Understand it. Resolve it.*
 
 CampusPulse AI is a smart campus problem solver. Students report issues such as Wi-Fi outages, water leaks, overflowing dustbins, broken lights and damaged equipment. Administrators organize, prioritize, track and resolve them. It was built as a hackathon MVP.
-
-**Live app (claude.ai):** https://claude.ai/artifact/CSatGgwZz8sAHpq6XehLa7
-**Project overview page:** https://claude.ai/artifact/684hfwTxT2guyXb33saRr5
 
 ## The problem
 
@@ -82,4 +79,4 @@ The app is a single file, `index.html`, with no build step. Open it in a browser
 
 ## Author
 
-Built by YOUR NAME, B.Tech CSE, KL University.
+Built by Chindada Anand Teja,Karri Devi Harshith Prudhvi, B.Tech CSE, KL University.
